@@ -1,5 +1,10 @@
 git clone
+
 git add 
 git commit -m
 git push 
 git pull 
+
+git branch " nom de la branche " 
+git checkout " nom de la branche "
+git --set-upstream origin " nom de la branche " 
